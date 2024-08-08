@@ -45,17 +45,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3rem;
-    margin-top: 3rem;
-    
-  }
-  
-  #userScore,
-  #compScore {
     font-size: 5rem;
-
+    margin-top: 3rem;
+    gap: 5rem;
   }
   
+  #user-score,
+  #comp-score {
+    font-size: 8rem;
+  }
   
   .msg-container {
     margin-top: 5rem;
